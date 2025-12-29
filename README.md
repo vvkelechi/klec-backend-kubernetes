@@ -1,4 +1,5 @@
 🚀 Kubernetes Backend Deployment on Amazon EKS
+
 📌 Project Overview
 
 This project demonstrates how to containerize a backend application, store the image securely in Amazon ECR, and deploy it to a Kubernetes cluster running on Amazon EKS. It showcases real-world DevOps workflows including containerization, Kubernetes orchestration, AWS integration, and troubleshooting deployment issues.
