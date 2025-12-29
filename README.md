@@ -30,6 +30,7 @@ Kubernetes Service (NodePort) exposes the app externally
 EKS worker nodes run container workloads
 
 ⚙️ Key Steps Implemented
+
 1️⃣ Containerization
 
 Built a Docker image for the backend application using a Dockerfile
@@ -85,4 +86,5 @@ This project reflects real-world cloud-native deployment practices
 👤 Author
 
 Victor Eze
+
 Cloud & DevOps Engineer
